@@ -1,22 +1,25 @@
-<h2>Hey 👋, I'm <a href="https://github.com/TON_USERNAME">Serge WEBER</a></h2>
+<h2>Hey 👋, I'm <a href="https://github.com/Milionj">Serge WEBER</a></h2>
 
 <p>
-Je suis <strong>Développeur Fullstack </strong> basé à 📍 Paris.
-Je construis des projets fullstack (React, Node, Symfony), j’apprends en continu, et je fais la guerre aux bugs (ils gagnent parfois).
+  Je suis <strong>Développeur Fullstack</strong> basé à 📍 Paris.
+  Je construis des projets fullstack (React, Node, Symfony), j’apprends en continu, et je fais la guerre aux bugs (ils gagnent parfois).
 </p>
 
 <p>
   <a href="mailto:sergeweb52@gmail.com">
-    <img src="https://img.shields.io/badge/-sergeweb52@gmail.com-EA4335?style=flat-square&amp;labelColor=EA4335&amp;logo=Gmail&amp;logoColor=white" alt="Email Badge">
+    <img src="https://img.shields.io/badge/-sergeweb52@gmail.com-EA4335?style=flat-square&amp;labelColor=EA4335&amp;logo=Gmail&amp;logoColor=white" alt="Email Badge" />
   </a>
+
   <a href="https://twitter.com/sergeweb52" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-@sergeweb52-1DA1F2?style=flat-square&amp;labelColor=1DA1F2&amp;logo=Twitter&amp;logoColor=white" alt="Twitter Badge">
+    <img src="https://img.shields.io/badge/-@sergeweb52-1DA1F2?style=flat-square&amp;labelColor=1DA1F2&amp;logo=Twitter&amp;logoColor=white" alt="Twitter Badge" />
   </a>
+
   <a href="https://www.linkedin.com/in/serge-weber-b414b3232" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Serge%20Weber-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;logoColor=white" alt="LinkedIn Badge">
+    <img src="https://img.shields.io/badge/-Serge%20Weber-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href="https://github.com/Milionj" target="_blank" rel="Milionj">
-    <img src="https://img.shields.io/badge/-@Milionj?style=flat-square&amp;labelColor=181717&amp;logo=GitHub&amp;logoColor=white" alt="GitHub Badge">
+
+  <a href="https://github.com/Milionj" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-@Milionj-181717?style=flat-square&amp;labelColor=181717&amp;logo=GitHub&amp;logoColor=white" alt="GitHub Badge" />
   </a>
 </p>
 
@@ -26,15 +29,19 @@ Je construis des projets fullstack (React, Node, Symfony), j’apprends en conti
 
 <p>🍌 Ne néglige pas le potassium (et l’hydratation quand tu codes) 🍌</p>
 
-<img align="right" alt="Coding" width="360"
-src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif" />
+<img
+  align="right"
+  alt="Coding"
+  width="360"
+  src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif"
+/>
 
 <h2>⚡️ A Few Quick Facts</h2>
 
 <ul>
   <li>🔭 Je travaille sur : <strong>mes projets perso</strong> (front + back + déploiement).</li>
   <li>🧐 J’apprends : <strong>sécurité</strong>, <strong>API REST</strong>, <strong>SQL</strong>, <strong>Docker</strong>.</li>
-  <li>👨‍💻 Mes projets sont sur <a href="https://github.com/TON_USERNAME">GitHub</a>.</li>
+  <li>👨‍💻 Mes projets sont sur <a href="https://github.com/Milionj">GitHub</a>.</li>
   <li>💬 Tu peux me ping sur : <strong>React, Symfony, Node, MySQL, Firebase</strong>.</li>
   <li>📫 Contact : <strong>sergeweb52@gmail.com</strong></li>
 </ul>
@@ -44,13 +51,13 @@ src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c
 <details>
   <summary>Explore</summary>
   <ul>
-    <li><a target="_blank" href="https://github.com/Milionj/Portfolio_2025">Article / Post #1 ( Portfolio_2025 )</a></li>
-    <li><a target="_blank" href="https://github.com/Milionj/InkMaster_ECF">Article / Post #2 (Inkmaster)</a></li>
-    <li><a target="_blank" href="https://github.com/Milionj/Arcadia_zoo">Article / Post #3 ( Arcadia Zoo)</a></li>
+    <li><a target="_blank" rel="noreferrer" href="https://github.com/Milionj/Portfolio_2025">Projet #1 : Portfolio_2025</a></li>
+    <li><a target="_blank" rel="noreferrer" href="https://github.com/Milionj/InkMaster_ECF">Projet #2 : InkMaster</a></li>
+    <li><a target="_blank" rel="noreferrer" href="https://github.com/Milionj/Arcadia_zoo">Projet #3 : Arcadia Zoo</a></li>
   </ul>
 </details>
 
-<p><a target="_blank" href="https://sergeweberportfolio.netlify.app/">Read More</a></p>
+<p><a target="_blank" rel="noreferrer" href="https://sergeweberportfolio.netlify.app/">Read More</a></p>
 
 <h2>🚀 Some Tools I Use</h2>
 
@@ -62,35 +69,4 @@ src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" alt="Symfony" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="25" height="25" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="25" height="25" />
-</p>
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Milionj&amp;show_icons=true&amp;count_private=true&amp;locale=fr"
-    alt="GitHub stats"
-  />
-</div>
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milionj&amp;layout=compact&amp;locale=fr"
-    alt="Top languages"
-  />
-</div>
-
-<div align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Milionj&amp;locale=fr"
-    alt="GitHub streak"
-  />
-</div>
-
-<p>
-  <a href="https://hits.dwyl.com/Miliobj/Milionj">
-    <img src="https://hits.dwyl.com/Milionj/Milionj?style=flat-square" alt="HitCount">
-  </a>
-</p>
+  <img src="https://raw.githubusercontent.com/devicons/de
