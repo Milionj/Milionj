@@ -15,7 +15,7 @@ Je construis des projets fullstack (React, Node, Symfony), j’apprends en conti
   <a href="https://www.linkedin.com/in/serge-weber-b414b3232" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Serge%20Weber-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;logoColor=white" alt="LinkedIn Badge">
   </a>
-  <a href="https://github.com/Milionj" target="https://github.com/Milionj" rel="Milionj">
+  <a href="https://github.com/Milionj" target="_blank" rel="Milionj">
     <img src="https://img.shields.io/badge/-@Milionj?style=flat-square&amp;labelColor=181717&amp;logo=GitHub&amp;logoColor=white" alt="GitHub Badge">
   </a>
 </p>
@@ -44,9 +44,9 @@ src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c
 <details>
   <summary>Explore</summary>
   <ul>
-    <li><a target="_blank" href="https://github.com/TON_USERNAME">Article / Post #1 (à remplacer)</a></li>
-    <li><a target="_blank" href="https://github.com/TON_USERNAME">Article / Post #2 (à remplacer)</a></li>
-    <li><a target="_blank" href="https://github.com/TON_USERNAME">Article / Post #3 (à remplacer)</a></li>
+    <li><a target="_blank" href="https://github.com/Milionj/Portfolio_2025">Article / Post #1 ( Portfolio_2025 )</a></li>
+    <li><a target="_blank" href="https://github.com/Milionj/InkMaster_ECF">Article / Post #2 (Inkmaster)</a></li>
+    <li><a target="_blank" href="https://github.com/Milionj/Arcadia_zoo">Article / Post #3 ( Arcadia Zoo)</a></li>
   </ul>
 </details>
 
