@@ -50,7 +50,7 @@ src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c
   </ul>
 </details>
 
-<p><a target="_blank" href="https://github.com/TON_USERNAME">Read More</a></p>
+<p><a target="_blank" href="https://sergeweberportfolio.netlify.app/">Read More</a></p>
 
 <h2>🚀 Some Tools I Use</h2>
 
