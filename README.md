@@ -70,27 +70,27 @@ src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&amp;show_icons=true&amp;count_private=true&amp;locale=fr"
+    src="https://github-readme-stats.vercel.app/api?username=Milionj&amp;show_icons=true&amp;count_private=true&amp;locale=fr"
     alt="GitHub stats"
   />
 </div>
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&amp;layout=compact&amp;locale=fr"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milionj&amp;layout=compact&amp;locale=fr"
     alt="Top languages"
   />
 </div>
 
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=TON_USERNAME&amp;locale=fr"
+    src="https://streak-stats.demolab.com/?user=Milionj&amp;locale=fr"
     alt="GitHub streak"
   />
 </div>
 
 <p>
-  <a href="https://hits.dwyl.com/TON_USERNAME/TON_USERNAME">
-    <img src="https://hits.dwyl.com/TON_USERNAME/TON_USERNAME.svg?style=flat-square" alt="HitCount">
+  <a href="https://hits.dwyl.com/Miliobj/Milionj">
+    <img src="https://hits.dwyl.com/Milionj/Milionj?style=flat-square" alt="HitCount">
   </a>
 </p>
