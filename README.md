@@ -98,20 +98,21 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=sergeweber&show_icons=true&locale=fr"
+    src="https://github-readme-stats.vercel.app/api?username=milionj&amp;show_icons=true&amp;locale=fr"
     alt="GitHub stats"
     height="150"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=sergeweber&show_icons=true&locale=fr&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=milionj&amp;layout=compact&amp;locale=fr"
     alt="Top languages"
     height="150"
   />
 </div>
 
+<!-- GitHub Streak (nouvelle URL stable) -->
 <div align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sergeweber"
+    src="https://streak-stats.demolab.com/?user=milionj&amp;locale=fr"
     alt="GitHub streak"
     height="180"
   />
