@@ -15,13 +15,13 @@ Je construis des projets fullstack (React, Node, Symfony), j’apprends en conti
   <a href="https://www.linkedin.com/in/serge-weber-b414b3232" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Serge%20Weber-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;logoColor=white" alt="LinkedIn Badge">
   </a>
-  <a href="https://github.com/TON_USERNAME" target="_blank" rel="noreferrer">
+  <a href="https://github.com/Milionj" target="https://github.com/Milionj" rel="Milionj">
     <img src="https://img.shields.io/badge/-@TON_USERNAME-181717?style=flat-square&amp;labelColor=181717&amp;logo=GitHub&amp;logoColor=white" alt="GitHub Badge">
   </a>
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=TON_USERNAME&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Milionj&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="Profile views" />
 </p>
 
 <p>🍌 Ne néglige pas le potassium (et l’hydratation quand tu codes) 🍌</p>
