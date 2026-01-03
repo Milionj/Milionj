@@ -42,7 +42,7 @@
   <li>🔭 Je travaille sur : <strong>mes projets perso</strong> (front + back + déploiement).</li>
   <li>🧐 J’apprends : <strong>sécurité</strong>, <strong>API REST</strong>, <strong>SQL</strong>, <strong>Docker</strong>.</li>
   <li>👨‍💻 Mes projets sont sur <a href="https://github.com/Milionj">GitHub</a>.</li>
-  <li>💬 Tu peux me ping sur : <strong>React, Symfony, Node, MySQL, Firebase</strong>.</li>
+  <li>💬 Tu peux me ping sur : <strong>React, Vue, Symfony, Node, MySQL, Firebase</strong>.</li>
   <li>📫 Contact : <strong>sergeweb52@gmail.com</strong></li>
 </ul>
 
@@ -62,11 +62,57 @@
 <h2>🚀 Some Tools I Use</h2>
 
 <p align="left">
+  <!-- Front -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="25" height="25" />
+
+  <!-- Back -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" alt="Symfony" width="25" height="25" />
+
+  <!-- DB -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/devicons/de
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="25" height="25" />
+
+  <!-- Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="25" height="25" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="25" height="25" />
+</p>
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Milionj&amp;show_icons=true&amp;count_private=true&amp;locale=fr"
+    alt="GitHub stats"
+  />
+</div>
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milionj&amp;layout=compact&amp;locale=fr"
+    alt="Top languages"
+  />
+</div>
+
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Milionj&amp;locale=fr"
+    alt="GitHub streak"
+  />
+</div>
+
+<p>
+  <a href="https://hits.dwyl.com/Milionj/Milionj">
+    <img src="https://hits.dwyl.com/Milionj/Milionj.svg?style=flat-square" alt="HitCount" />
+  </a>
+</p>
