@@ -16,7 +16,7 @@ Je construis des projets fullstack (React, Node, Symfony), j’apprends en conti
     <img src="https://img.shields.io/badge/-Serge%20Weber-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;logoColor=white" alt="LinkedIn Badge">
   </a>
   <a href="https://github.com/Milionj" target="https://github.com/Milionj" rel="Milionj">
-    <img src="https://img.shields.io/badge/-@TON_USERNAME-181717?style=flat-square&amp;labelColor=181717&amp;logo=GitHub&amp;logoColor=white" alt="GitHub Badge">
+    <img src="https://img.shields.io/badge/-@Milionj?style=flat-square&amp;labelColor=181717&amp;logo=GitHub&amp;logoColor=white" alt="GitHub Badge">
   </a>
 </p>
 
