@@ -21,6 +21,10 @@
   <a href="https://github.com/Milionj" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-@Milionj-181717?style=flat-square&amp;labelColor=181717&amp;logo=GitHub&amp;logoColor=white" alt="GitHub Badge" />
   </a>
+
+  <a href="https://sergeweberportfolio.netlify.app/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Portfolio-0e75b6?style=flat-square&amp;labelColor=0e75b6&amp;logo=Firefox&amp;logoColor=white" alt="Portfolio Badge" />
+  </a>
 </p>
 
 <p align="left">
@@ -90,27 +94,34 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="25" height="25" />
 </p>
 
+<!-- ✅ Stats (Summary Cards) -->
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Milionj&amp;show_icons=true&amp;count_private=true&amp;locale=fr"
-    alt="GitHub stats"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Milionj&amp;theme=github_dark"
+    alt="Profile details"
   />
 </div>
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milionj&amp;layout=compact&amp;locale=fr"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Milionj&amp;theme=github_dark"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Milionj&amp;theme=github_dark"
     alt="Top languages"
   />
 </div>
 
+<!-- ✅ Streak (DemoLab officiel) -->
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=Milionj&amp;locale=fr"
+    src="https://streak-stats.demolab.com/?user=Milionj&amp;theme=github-dark&amp;hide_border=true"
     alt="GitHub streak"
   />
 </div>
 
+<!-- ✅ HitCount (DWYL - URL correcte) -->
 <p>
   <a href="https://hits.dwyl.com/Milionj/Milionj">
     <img src="https://hits.dwyl.com/Milionj/Milionj.svg?style=flat-square" alt="HitCount" />
