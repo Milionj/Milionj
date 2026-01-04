@@ -44,7 +44,7 @@
 
 <ul>
   <li>🔭 Je travaille sur : <strong>mes projets perso</strong> (front + back + déploiement).</li>
-  <li>🧐 J’apprends : <strong>sécurité</strong>, <strong>API REST</strong>, <strong>SQL</strong>, <strong>Docker</strong>.</li>
+  <li>🧐 J’apprends toujours plus en : <strong>sécurité</strong>, <strong>API REST</strong>, <strong>SQL</strong>, <strong>Docker</strong>.</li>
   <li>👨‍💻 Mes projets sont sur <a href="https://github.com/Milionj">GitHub</a>.</li>
   <li>💬 Tu peux me ping sur : <strong>React, Vue, Symfony, Node, MySQL, Firebase</strong>.</li>
   <li>📫 Contact : <strong>sergeweb52@gmail.com</strong></li>
